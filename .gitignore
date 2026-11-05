@@ -1,0 +1,7 @@
+
+node_modules/
+session/
+.env
+*.log
+temp/
+*.mp4
